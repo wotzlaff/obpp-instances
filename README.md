@@ -20,7 +20,7 @@ Afterwards, the items are specified in the same way.
 
 ## References
 <a id="1">[1]</a>
-Cerrone, C., Dragone, R., Sciomachen, A.: Overflowing bin packing problem: the preservation of digital documents in archival information packages. Preprint, University of Genoa (2023) <http://dx.doi.org/10.2139/ssrn.46472889>, [cached](https://scholar.googleusercontent.com/scholar?q=cache:_QyMLldSwaIJ:scholar.google.com).
+Cerrone, C., Dragone, R., Sciomachen, A.: Overflowing bin packing problem: the preservation of digital documents in archival information packages. Preprint, University of Genoa (2023) <http://dx.doi.org/10.2139/ssrn.4647288>, [cached](https://scholar.googleusercontent.com/scholar?q=cache:_QyMLldSwaIJ:scholar.google.com).
 
 <a id="2">[2]</a>
 Martinovic, J., Strasdat, N. (2024). The Overflowing Bin Packing Problem: Theoretical Results and a New Flow Formulation. Draft only.
