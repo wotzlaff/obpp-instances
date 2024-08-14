@@ -10,7 +10,7 @@ Some of them are based on instances for the variable-sized bin packing problem (
 - `Belov` containing 4 subsets of VSBPP instances from [[4]](#4) modified according to [[2]](#2)
 - `Crainic` containing 3 subsets of VSBPP instances from [[5]](#5) modified according to [[2]](#2)
 - `Hemmelmayr` containing 2 subsets of VSBPP instances from [[6]](#6) modified according to [[2]](#2)
-- `MS` containing 3 subsets of instances generated for [[2]](#2)
+- `MS` containing 2 subsets of instances generated for [[2]](#2)
 
 ## Format
 Each file contains one instance of the OBPP.
